@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Que-13
+- 👋 Hi, I’m @Que-13 and Beginner for Programing
 - 👀 I’m interested in Visual Art,Immersive&Intaractive Art
 - 🌱 I’m currently learning Python,GLSL for TouchDesigner
 - 💞️ I’m looking to collaborate on ...
